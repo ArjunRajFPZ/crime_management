@@ -1,0 +1,1 @@
+The objective of the program was to create an online based crime reporting system where the user can file his/her complaint without going to the police station and would be updated about the crimes happening all around them. Thus, making it easier for the user to file a report and get the needed information from the same platform.
